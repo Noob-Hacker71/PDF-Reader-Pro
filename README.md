@@ -12,7 +12,7 @@
 
 A tool that can translate any English PDF into more than 100 language. this tool will transform text into audio format and play it page wise. You can read any English PDF  in your native language for more understanding and you can listen it in audio format. this tool will make your reading passion more easier. Happy reading and Learning #NC
 
-# Installation Process
+# Installation Process [ Termux & Linux }
 ```
 $ apt install python3 -y
 $ pip install pdfplumber
@@ -26,7 +26,7 @@ $ cd PDF-Reader-Pro
 $ python3 pdf_read.py
 
 ```
-# Input Method
+# Input Method [ GUI Process ]
 ```
 $ Pdf Path: [ Enter your pdf file path ]
 $ Page Number: [ Enter page number you want to translate or listed ]
@@ -34,6 +34,21 @@ $ Target Lang: [ Enter short form of your language you want to translate. like f
 ```
 
 
+# For Windows User 
+if can not clone it from <b>GitHub</> then download .zip file from here and then follow further process.
+```
+$ apt install unzip
+$ cd PDF-Reader-Pro
+$ unzip PDF Reader Pro.zip
+$ cd PDF Reader Pro
+```
+if you don know how to use tarminal then follow winRAR process
+```
+$ Right click on zip file and Extract option will pip-up
+$ Click Extract Here
+$ Double click on PDF Reader Pro
+$ Find PDF Reader Pro.exe file  and Double click on it for Run
+```
 
 <a href="https://m.me/ntahsan.nayem"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 <a href="https://fb.com/Noob.Hackrr71"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
