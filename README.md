@@ -1,4 +1,15 @@
-# PDF-Reader-Pro
+<!-- HOW THIS WORK BRO🖕🖕🖕 -->
+<div align="center">
+  <a href="https://www.facebook.com/Noob.Hacker71/">
+    <img width="250" heigth="250" src="icon.ico">
+</div>
+<br>
+
+<div align="center">
+<b><i>PDF Reader Pro</i></b>
+</div>
+
+
 A tool that can translate any English PDF into more than 100 language. this tool will transform text into audio format and play it page wise. You can read any English PDF  in your native language for more understanding and you can listen it in audio format. this tool will make your reading passion more easier. Happy reading and Learning #NC
 
 # Installation Process
@@ -23,16 +34,7 @@ $ Target Lang: [ Enter short form of your language you want to translate. like f
 ```
 
 
-<!-- HOW THIS WORK BRO🖕🖕🖕 -->
-<div align="center">
-  <a href="https://www.facebook.com/Noob.Hacker71/">
-    <img width="250" heigth="250" src="icon.ico">
-</div>
-<br>
 
-<div align="center">
-<b><i>THINK ABOUT DYNAMITE LITTLE BUT DENGROUS</i></b>
-</div>
 <a href="https://m.me/ntahsan.nayem"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 <a href="https://fb.com/Noob.Hackrr71"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
 <a href="https://github.com/Noob-Hacker71"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/REPUBLIC%20OF-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
